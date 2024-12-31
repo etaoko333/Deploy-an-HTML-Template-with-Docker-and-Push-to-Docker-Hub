@@ -82,6 +82,12 @@ Step 10: Check in Docker Hub Repo
 exit
 1.	Go to the EC2 instances page.
 2.	Select the Docker instance and click on Instance State > Terminate.
-________________________________________
+_____________________<img width="960" alt="2024-12-31 (9)" src="https://github.com/user-attachments/assets/4598e5eb-1cd6-412a-a086-8a89ffbd327d" />
+___________________
+<img width="960" alt="2024-12-31 (10)" src="https://github.com/user-attachments/assets/0604927b-dbfa-498e-a9d0-76961f5e01a6" />
+
+<img width="960" alt="2024-12-31 (15)" src="https://github.com/user-attachments/assets/8485a3d6-57ca-44a3-846f-c6f6a67fbfe7" />
+
 By following these steps, you will successfully deploy an HTML template using Docker and push it to your Docker Hub account.
 
+<img width="960" alt="2024-12-31 (14)" src="https://github.com/user-attachments/assets/dc0385f3-12cb-4ac2-b5fd-1d9e1adebbc9" />
